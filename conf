@@ -1,0 +1,10 @@
+[meta]
+	type = lang
+
+[lang]
+	name = Bash
+	cmd = bash
+	lid = bash
+
+[pkg]
+        cmd = bpan
